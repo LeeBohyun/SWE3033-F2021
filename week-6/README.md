@@ -1,5 +1,10 @@
 # Week 6
 
+## Frequently asked questions
+- RocksDB memory size: write_buffer_size (Number of bytes to buffer in memtable before compacting) default: 67108864 bytes
+- DBBench # of concurrent threads : 1 default thread
+- make static_lib
+
 ## Overview
 
 This week you will install RocksDB and run DB_Bench on your own system.
